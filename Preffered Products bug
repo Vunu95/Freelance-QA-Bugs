@@ -1,0 +1,65 @@
+Windows 10 - Shopping Bag - Changing region to Hong Kong adds more items.
+
+Description
+
+Actions Performed
+
+    Open the link 
+
+https://www.abercrombie.com/shop/eu and log into your account.
+
+    Next add an item to your shopping bag.
+
+    Click on the change region and select Hong Kong and China.
+
+    Revert back to your local region.
+
+    Open your shopping bag .
+
+Expected Result
+
+    Open the link 
+
+https://www.abercrombie.com/shop/eu and log into your account.
+
+    Next add an item to your shopping bag.
+
+    Visit the home page again.
+
+    Click on the change region and select Hong Kong and China.
+
+    The item should remain in your cart.
+
+    Revert to your local region.
+
+    The item in your shopping bag should still be in your cart.
+
+Actual Result
+
+    Open the link 
+
+https://www.abercrombie.com/shop/eu and log into your account.
+
+    Next add an item to your shopping bag.
+
+    Visit the home page again.
+
+    Click on the change region and select Hong Kong and China.
+
+    Look how your item instead of 1 quantity is 2.
+
+    Revert to your local region.
+
+    Open your shopping bag.
+
+    Another item is in your shopping bag without you adding it.
+
+    If you do it again it just adds more of the same item to your bag.
+
+Environment
+
+Windows 10 Home
+
+Firefox 121.0 
+
+
